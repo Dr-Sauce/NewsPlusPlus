@@ -15,10 +15,18 @@ Read articles for free. Supports iOS, macOS.
 3. Enjoy.
 
 # FAQ
-**- Can I use News++ with Chrome, Firefox?**
+### Can I use News++ with Chrome, Firefox?
   
-  Chrome, Firefox does not have extension support on iOS. If you want, you can install [Bypass Paywalls Clean for Firefox](https://gitflic.ru/project/magnolia1234/bypass-paywalls-firefox-clean) on [Reynard Browser](https://github.com/minh-ton/reynard-browser). (Needs to be sideloaded via [AltStore](https://altstore.io/), [TrollStore](https://ios.cfw.guide/installing-trollstore/) etc..)
+  Chrome, Firefox does not have extension support on iOS. If you want, you can install [Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bypass-paywalls-firefox-clean) on [Reynard Browser](https://github.com/minh-ton/reynard-browser). (Needs to be sideloaded via [AltStore](https://altstore.io/), [TrollStore](https://ios.cfw.guide/installing-trollstore/) etc..)
 
-**- Why Safari, not webview?**
+  For macOS, you can use any browser you prefer. Make sure to install the right version of `Bypass Paywalls Clean`.
+  
+  - **Chromium(Arc/Chrome/Edge..):** [Here](https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean)
+  - **Gecko(Firefox/Zen..):** [Here](https://gitflic.ru/project/magnolia1234/bypass-paywalls-firefox-clean)
+
+<sub>* **Brave** has `Bypass Paywalls Clean` as a default option in Brave Shields. Go to `Settings` to enable it.</sub>
+
+
+### Why Safari, not webview?
 
   Webview provides great UX by allowing users to easily go back to their previous screen, but doesn't allow extensions to run.
