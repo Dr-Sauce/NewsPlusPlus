@@ -1,5 +1,5 @@
 # News++
-Apple News++: Read articles for free. Supports iOS, macOS.
+Read articles for free. Supports iOS, macOS.
 
 <img width="100" height="100" alt="${f}" src="https://github.com/user-attachments/assets/8c05b1eb-4e07-4b8f-ac92-53a6f350ee68" />
 
