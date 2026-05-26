@@ -21,4 +21,4 @@ Apple News++: Read articles for free. Supports iOS, macOS.
 
 **- Why Safari, not webview?**
 
-  Webview provides great UX by allowing users to easily go back to the News app, but doesn't allow extensions to run.
+  Webview provides great UX by allowing users to easily go back to their previous screen, but doesn't allow extensions to run.
